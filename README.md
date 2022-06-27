@@ -1,5 +1,5 @@
 # stopwatch
-n order to change your widget, you need to update the state object which can be done using setState() function available for Stateful widgets. setState() sets properties of state object which in turn triggers the update to the UI.
+To change your widget, you need to update the state object which can be done using setState() function available for Stateful widgets. setState() sets properties of state object which in turn triggers the update to the UI.
 
 
 Userd Timer() and periodic constructor to set state 
